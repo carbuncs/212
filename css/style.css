@@ -1,9 +1,5 @@
 /*
-  Theme Name: TheEvent
-  Theme URL: https://bootstrapmade.com/theevent-conference-event-bootstrap-template/
-  Author: BootstrapMade.com
-  License: https://bootstrapmade.com/license/
-*/
+ wolking ramirez
 
 /*--------------------------------------------------------------
 # General
@@ -14,6 +10,8 @@
 
   color: #0e1b4d;
   font-size: 30px;
+  margin:auto;
+  text-align: right;
 }
 
 .yellow{
@@ -25,6 +23,8 @@
   width:300px;
   height:300px;
   border-radius:150px;
+  border:5px solid #0e1b4d;
+
 }
 
 body {
