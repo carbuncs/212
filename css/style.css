@@ -9,6 +9,24 @@
 # General
 --------------------------------------------------------------*/
 
+
+.azul{
+
+  color: #0e1b4d;
+  font-size: 30px;
+}
+
+.yellow{
+  color: #ffc31d;
+  font-size: 30px;
+}
+
+.imgredonda {
+  width:300px;
+  height:300px;
+  border-radius:150px;
+}
+
 body {
   background: #fff;
   color: #2f3138;
