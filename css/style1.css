@@ -46,16 +46,7 @@
   vertical-align: middle;
 }
 
-.banner {
-  display: block;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-  background: url(/img/fotos página/models/michelle2.jpg) no-repeat;
-  width: 180px; /* Width of new image */
-  height: 236px; /* Height of new image */
-  padding-left: 180px; /* Equal to width of new image */
-}
- 
+
 
 .imgredonda {
   width:320px;

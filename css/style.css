@@ -25,15 +25,7 @@
   transform: rotateY(180deg);
   transform-style: preserve-3d;}
 
-.sustituida-modificada {
-  box-sizing:border-box;
-  display:block;
-  width:115px;        /*Ancho de la imagen nueva, aunque en este caso son iguales.*/
-  height:115px;       /*Ancho de la imagen nueva, aunque en este caso son iguales.*/
-  padding-left:115px; /*Padding igual al ancho de la imagen nueva*/
-  background: url(img/fotos página/models/michelle2.jpg);
-  overflow:hidden;
-}
+
 .imgcuadrada{
   width:250px;
   height:350px;
