@@ -8,6 +8,12 @@ p{
   color:#0e1b4d;
   text-align-last: center;
 }
+.preloader {
+  width: 70px;
+  height: 70px;
+  border: 10px solid #eee;
+  border-radius: 50%;
+}
 
 #top h2{
   text-shadow: 2px 2px black;
