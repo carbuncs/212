@@ -11,7 +11,7 @@ p{
 .label {
   color: white;
   padding: 8px;
-  text-align: center;
+  text-align: justify;
 }
 
 input[type=text] {
